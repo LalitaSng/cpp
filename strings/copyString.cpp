@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    string s1="Lalita kumari";
+    string s1="Gaurav kumar";
     string s2="";
     int i;
     for( i=0;i<s1.length();i++){
